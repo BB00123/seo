@@ -11,7 +11,7 @@
     "",
     ""
   ],
-  "repository": "https://github.com/Bigpongsakorn/atom-seo.git",
+  "repository": "https://github.com/BB00123/seo.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
