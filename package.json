@@ -1,0 +1,20 @@
+{
+  "name": "atom-seo",
+  "theme": "syntax",
+  "version": "1.1.0",
+  "description": "ทางเข้า",
+  "keywords": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "repository": "https://github.com/Bigpongsakorn/atom-seo.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
+
